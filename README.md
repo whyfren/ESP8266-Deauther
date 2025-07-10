@@ -22,6 +22,16 @@ Attack
 - [Beacon](Documentation/Beacon.jpeg)
 - Probe (i`m sorry, i do not have documentation for this)
 
+## Tech 🛠️ 
+- HTML5
+- CSS3
+- JavaScript
+- C/C++
+- IDE
+
+## Instaltion
+For more information you can go to [deauther.com](https://deauther.com/)
+
 ## Credit 🙏
 - Software and code in this project is from:
 [esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther/) from [SpacehuhnTech](https://github.com/SpacehuhnTech) – Under MIT license
